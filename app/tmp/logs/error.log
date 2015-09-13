@@ -5578,3 +5578,12 @@ Stack Trace:
 #3 /Applications/XAMPP/xamppfiles/htdocs/bootcamp_complete-master/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
 #4 /Applications/XAMPP/xamppfiles/htdocs/bootcamp_complete-master/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2015-09-14 01:57:38 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

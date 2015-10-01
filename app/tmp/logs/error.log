@@ -5850,3 +5850,510 @@ Request URL: /bootstrap.min.js
 Stack Trace:
 #0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-10-01 11:49:46 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:15:08 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:15:31 Error: [MissingActionException] Action UsersController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /users/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:15:32 Error: [MissingActionException] Action UsersController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /users/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:15:40 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:15:53 Error: [NotFoundException] Invalid category
+Request URL: /users/view/bootstrap.min.js
+Stack Trace:
+#0 [internal function]: UsersController->view('bootstrap.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-01 12:15:57 Error: [NotFoundException] Invalid category
+Request URL: /users/view/bootstrap.min.js
+Stack Trace:
+#0 [internal function]: UsersController->view('bootstrap.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-01 12:25:11 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:25:16 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:25:24 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:25:45 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:26:54 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:27:01 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:27:06 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:29:23 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:30:19 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:30:21 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:30:23 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:30:27 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:30:36 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:33:22 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:33:32 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:33:38 Error: [MissingActionException] Action PagesController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index.ctp',
+)
+Request URL: /Pages/index.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:33:38 Error: [MissingActionException] Action PagesController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /Pages/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:34:44 Error: [MissingActionException] Action PagesController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index.ctp',
+)
+Request URL: /Pages/index.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:34:44 Error: [MissingActionException] Action PagesController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /Pages/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:35:32 Error: [MissingActionException] Action PagesController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index.ctp',
+)
+Request URL: /Pages/index.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:35:32 Error: [MissingActionException] Action PagesController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /Pages/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:36:42 Error: [MissingActionException] Action PagesController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index.ctp',
+)
+Request URL: /Pages/index.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:36:42 Error: [MissingActionException] Action PagesController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /Pages/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:36:48 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:36:51 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:36:56 Error: [MissingActionException] Action PagesController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index.ctp',
+)
+Request URL: /Pages/index.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:36:56 Error: [MissingActionException] Action PagesController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /Pages/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-01 12:37:45 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:37:47 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:37:59 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:38:02 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:39:10 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:39:10 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:41:08 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:41:09 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 12:41:13 Error: [MissingViewException] View file "Pages/index.ctp.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/index.ctp.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-01 12:41:13 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 13:39:39 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 13:51:03 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created' in order clause is ambiguous
+Request URL: /
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Topic`....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Topic`....', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Topic`....', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Topic), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/Controller/UsersController.php(41): Model->find('all', Array)
+#7 [internal function]: UsersController->login()
+#8 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-10-01 13:51:03 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 13:51:45 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created' in order clause is ambiguous
+Request URL: /
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Topic`....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Topic`....', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Topic`....', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Topic), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/Controller/UsersController.php(44): Model->find('all', Array)
+#7 [internal function]: UsersController->login()
+#8 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-10-01 13:51:45 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-01 13:52:23 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created' in order clause is ambiguous
+Request URL: /
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Topic`....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Topic`....', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Topic`....', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Topic), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/Controller/UsersController.php(44): Model->find('all', Array)
+#7 [internal function]: UsersController->login()
+#8 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-10-01 13:52:23 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/SimpleNow/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

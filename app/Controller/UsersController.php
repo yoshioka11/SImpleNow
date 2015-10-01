@@ -5,9 +5,11 @@ class UsersController extends AppController {
   public $components = array('Paginator','Session', 'Auth');
 
   public $uses = array(
+    'Category',
+    'Comment',
     'Topic',
-    'User');
-
+    'User'
+  );
 
   public function beforeFilter()
   {
@@ -34,8 +36,15 @@ $this->set('user', $this->Auth->user());
 
   public function login(){
     if($this->request->is('post')) {
-      if($this->Auth->login())
-        return $this->redirect('/');
+      if($this->Auth->login()){
+        $user = $this->Auth->user(); 
+            $topics = $this->Topic->find('all', array(
+      'conditions' => array('Topic.user_id' => $user['id']),
+      'order' => array('created' =>'DESC')
+    ));
+    $this->set('topics', $topics);
+        return $this->setAction('../Pages/index');
+      }
       else
         $this->Session->setFlash('ログインに失敗しました');
     }

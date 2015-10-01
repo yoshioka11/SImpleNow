@@ -17,9 +17,8 @@ class PagesController extends AppController {
     }
 
 	public function index() {
-        $user = $this->Auth->user();
 
-        
+        $user = $this->Auth->user();    
         //データを昇順で表示させている（DESC）
 		$topics = $this->Topic->find('all',array(
             'order' => array('Topic.created'=> 'DESC'),
